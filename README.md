@@ -1,4 +1,4 @@
-# Analyze-Operational-Data-to-Improve-Logistics-Warehousing-Efficiency-Logi-Tech-
+# Analyze-Operational-Data-to-Improve-Logistics-Warehousing-Efficiency-Logi-Tech
 
 Analyzed large-scale logistics and supply chain data to improve delivery performance, warehouse efficiency, inventory management, and cost optimization. The project focused on identifying operational inefficiencies and enabling data-driven decision-making across end-to-end logistics processes.
 
